@@ -1,5 +1,5 @@
 ###################
-# Dockerfile gitlab
+#Dockerfile gitlab
 ###################
 
 FROM centos:7
